@@ -40,8 +40,7 @@ This repository serves as living documentation to TLC Labs and those who wish to
 - **No Subscriptions:** We refuse to drain the wallets of our people and guarantee absolutely no subscriptions.
 - **Environmental Impact:** We are committed to reducing e-waste and will explore circular-economy initiatives like plastic recycling discounts.
 
-
 ---
 
-[Index](/index.md)
-[README](/README.md)
+- [Index](/index.md)
+- [README](/README.md)
