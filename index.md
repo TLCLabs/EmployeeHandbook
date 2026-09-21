@@ -3,6 +3,7 @@
 A link to all files.
 
 - [Repository Readme](/README.md)
+- [TLC Labs Manifesto](/manifesto.md)
 - [Guiding Principles of Leadership](/guiding-principles-of-leadership.md)
 
 ---
