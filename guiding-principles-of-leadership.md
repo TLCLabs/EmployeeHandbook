@@ -19,3 +19,8 @@
 - The more people look up to you, the greater your **responsibility** to live by these guiding principles.
 
 The team takes the credit for success; the leader takes the responsibility for failure.
+
+---
+
+- [Index](/index.md)
+- [README](/README.md)
