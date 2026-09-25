@@ -2,7 +2,7 @@
 
 ## Our Vision
 
-*"To fundamentally improve the lives of people by creating reliable, open-source appliances that eliminate e-waste, while proving that a compassionate, employee-first business model can successfully compete in the modern market."* - TLC Labs
+*"To fundamentally improve the lives of people by creating a compassionate, employee-first business model, while building reliable open-source appliances that help eliminate e-waste"* - TLC Labs
 
 ## Core Identity: T.L.C.
 
